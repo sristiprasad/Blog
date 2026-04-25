@@ -1,4 +1,4 @@
-# Blog
+# Learning in public
 Building in public. Learning from mistakes, simplifying the overwhelming AI culture.
 <hr>
 
