@@ -1,2 +1,2 @@
 # Blog
-Building in public. Learning from mistakes,. Simplifying the overwhelming AI cuture.
+Building in public. Learning from mistakes, simplifying the overwhelming AI culture.
