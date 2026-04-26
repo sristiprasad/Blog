@@ -4,7 +4,7 @@ Building in public. Learning from mistakes, simplifying the overwhelming AI cult
 
 <table>
   <tr>
-    <th>Post</th>
+    <th>Series</th>
     <th>Title</th>
   </tr>
   <tr>
