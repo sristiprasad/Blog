@@ -8,8 +8,8 @@ Building in public. Learning from mistakes, simplifying the overwhelming AI cult
     <th>Title</th>
   </tr>
   <tr>
-    <td>Google Stitch</td>
-    <td>I spent 2 weeks to create 3 x 7 wireframes using stitch</td>
+    <td>Design Prompting using google stitch</td>
+    <td>How to use design memory to create themed wireframes/td>
   </tr>
   <tr>
     <td>Jira</td>
