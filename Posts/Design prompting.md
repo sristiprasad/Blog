@@ -1,6 +1,8 @@
 # Design Prompting
 This post cover my initial prompts to create a south indian theme based wireframes for a tic tac toe gaming application. I used google stitch as my AI assistant for achieve this.
 
+I start with a project overview, then dive in visual identity and palattes. Then layout and visual identity 
+
 ## Project Overview
 A premium, culturally-rooted Tic Tac Toe mobile game featuring high-fidelity, intricate line-art iconography based on South Indian temple architecture and traditional motifs.
 

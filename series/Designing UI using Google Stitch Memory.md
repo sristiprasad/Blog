@@ -1,4 +1,4 @@
-# Series: Design Requirement Summary for Khel Tic Tac Toe
+# Series: Designing UI using Google Stitch Memory
 
 How to use design memory to create themed wireframes, with the core layout remaining unchanged through prompts.
 
@@ -8,5 +8,5 @@ This series is an account on how i dealt with this issue while experimenting des
 
 ## Posts in This Series
 
-1. ++[Design prompting](https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20prompting.md)++ Initial prompts with projects overview and design intentions
+1. <u>[Design prompting](https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20prompting.md)</u> Initial prompts with projects overview and design intentions
 
