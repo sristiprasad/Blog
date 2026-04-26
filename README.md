@@ -8,7 +8,7 @@ Building in public. Learning from mistakes, simplifying the overwhelming AI cult
     <th>Title</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Design%20prompting%20using%20google%20stitch.md">Prompting using Google Stitch</a></td>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Designing%20UI%20using%20Google%20Stitch%20Memory.md">Designing UI using Google Stitch Memory</a></td>
 <td>How to use design memory to create themed wireframes</td>
   </tr>
   <tr>
