@@ -8,7 +8,7 @@ Building in public. Learning from mistakes, simplifying the overwhelming AI cult
     <th>Title</th>
   </tr>
   <tr>
-    <td>Design Prompting using google stitch</td>
+    <td>Design [Prompting using google stitch](https:)</td>
     <td>How to use design memory to create themed wireframes/td>
   </tr>
   <tr>
