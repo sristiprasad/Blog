@@ -1,7 +1,6 @@
 # Series: Design Requirement Summary for Khel Tic Tac Toe
-<hr>
 
-## How to use design memory to create theme wireframes
+How to use design memory to create themed wireframes, with the core layout remaining unchanged through prompts.
 
 ## Project Overview
 A premium, culturally-rooted Tic Tac Toe mobile game featuring high-fidelity, intricate line-art iconography based on South Indian temple architecture and traditional motifs.
