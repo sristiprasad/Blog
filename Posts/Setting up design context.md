@@ -83,3 +83,9 @@ Coin 2: An abstract, organic spiral motion representing wind or ocean waves in (
 3. Finally add a small button with rounded corners and rectangular shape in filled #D4AF37 and text 'Lets Play' in colour #0C5021 , semi bolded and noto serif font.
 
 Do not add anything else to the wireframe not mentioned. No additional lines, headers, or taskbars required. 
+
+These are examples of 3 wireframes i designed. The tool was able to pick the pattern from here for the next 4 wireframes south Indian 'Nayaka Warrior' designs.
+
+<td><a href="https://drive.google.com/drive/u/1/folders/19Qs0q-egIBTNXlZ2aRzYwidnpfBKjbqQ">Click on the click to view product design spec for Khel Tic Tac Toe game</a></td>
+
+Hallicinations started with I started to shift
