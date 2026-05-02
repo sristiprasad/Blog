@@ -91,7 +91,7 @@ These are examples of 3 wireframes i designed. The tool was able to pick the pat
 However, it started losing context and the model operates without persistent memory, requiring repeated reinforcement of core design systems, layout logic, and visual rules.
 
 This limitation converted by 3-4 hours of experimenting, painstacking focus of over 48+ hours.
-<h2>
 
-**Series** ++[Generative AI will not replace UI designers ->](https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md)++ 
+---
 
+**Series** [Generative AI will not replace UI designers ->](https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md)
