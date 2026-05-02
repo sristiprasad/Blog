@@ -94,4 +94,13 @@ This limitation converted by 3-4 hours of experimenting, painstacking focus of o
 
 ---
 
-**Series** [Generative AI will not replace UI designers ->](https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md)
+**Series** : [Generative AI will not replace UI designers ->](https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md)
+
+# Related
+
+---
+<ul>
+  <li>Post 2 - Design themes</li>
+  <li>Post 2 - Design themes</li>
+  <li>Post 2 - Design themes</li>
+</ul>
