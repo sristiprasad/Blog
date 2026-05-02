@@ -1,7 +1,12 @@
 # Learning in public
 
 Building in public. Learning from mistakes, simplifying the overwhelming AI culture.
+
+These posts come from real working sessions. Every post is distilled from exploring something, building with tools, breaking, creating, failing, and gaining some insight with clarity to proceed. This is no tutorial content. Just pure real work and diarying as lesson.
 <hr>
+
+# Series
+Series are groups of posts that build on each other. Start here if you want context before reading individual posts
 
 <table>
   <tr>
@@ -21,6 +26,8 @@ Building in public. Learning from mistakes, simplifying the overwhelming AI cult
   </tr>
 </table>
 <hr>
+
+# All Posts
 
 <table>
   <tr>
