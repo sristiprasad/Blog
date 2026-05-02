@@ -10,5 +10,5 @@ This series is an account on how i failed with generative AI tool google stitch 
 
 ## Posts in This Series
 
-1. <u>[Design prompting](https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20prompting.md)</u> Initial prompts with projects overview and design intentions
+1. <u>[Setting up design context](https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20prompting.md)</u> Initial prompts with projects overview and design intentions, UI asthetics.
 
