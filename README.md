@@ -16,6 +16,7 @@ Building in public. Learning from mistakes, simplifying the overwhelming AI cult
   </tr>
   <tr>
     <td>Series 2</td>
+    <th>0</th>
     <td>Title 2</td>
   </tr>
 </table>
