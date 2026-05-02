@@ -98,9 +98,8 @@ This limitation converted by 3-4 hours of experimenting, painstacking focus of o
 
 # Related
 
----
 <ul>
-  <li>Post 2 - Design themes</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20themes%20Khel%20Tic%20Tac%20Toe.md">Design themes for Khel Tic Tac Toe</li> ()
   <li>Post 2 - Design themes</li>
   <li>Post 2 - Design themes</li>
 </ul>
