@@ -12,3 +12,4 @@ This series is an account on how i failed with googles generative AI tool and en
 
 1. <u>[Setting up design context](https://github.com/sristiprasad/Blog/blob/main/Posts/Setting%20up%20design%20context.md)</u> Initial prompts with projects overview and design intentions, UI asthetics.
 
+2. <u>[Design themes for Khel Tic Tac Toe]()</u> Constructing Design.md with 1 completed themed wireframe for contexting others.
