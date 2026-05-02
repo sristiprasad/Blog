@@ -1,6 +1,6 @@
 # Setting up design context
 
-This post cover my initial prompts to create a south indian theme based wireframes for a tic tac toe gaming application. I used google stitch as my AI assistant for achieve this.
+This post covers my initial prompts to create a south indian theme based wireframes for a tic tac toe gaming application. I used google stitch as my AI assistant for achieve this.
 
 I start with a project overview, then dive in directly in design prompting.
 Steps for the first 3 screens including master is presented below:-
@@ -86,5 +86,12 @@ Do not add anything else to the wireframe not mentioned. No additional lines, he
 
 These are examples of 3 wireframes i designed. The tool was able to pick the pattern from here for the next 4 wireframes south Indian 'Nayaka Warrior' designs.
 
-<td><a href="https://drive.google.com/drive/u/1/folders/19Qs0q-egIBTNXlZ2aRzYwidnpfBKjbqQ">Click on the click to view product design spec for Khel Tic Tac Toe game</a></td>
+[Click on the click to view product design spec for Khel Tic Tac Toe game](https://drive.google.com/drive/u/1/folders/19Qs0q-egIBTNXlZ2aRzYwidnpfBKjbqQ)
+
+However, it started losing context and the model operates without persistent memory, requiring repeated reinforcement of core design systems, layout logic, and visual rules.
+
+This limitation converted by 3-4 hours of experimenting, painstacking focus of over 48+ hours.
+<h2>
+
+**Series** ++[Generative AI will not replace UI designers ->](https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md)++ 
 
