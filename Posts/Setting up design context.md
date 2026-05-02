@@ -88,4 +88,3 @@ These are examples of 3 wireframes i designed. The tool was able to pick the pat
 
 <td><a href="https://drive.google.com/drive/u/1/folders/19Qs0q-egIBTNXlZ2aRzYwidnpfBKjbqQ">Click on the click to view product design spec for Khel Tic Tac Toe game</a></td>
 
-Hallicinations started with I started to shift
