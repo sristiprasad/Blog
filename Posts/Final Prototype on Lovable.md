@@ -32,6 +32,38 @@ Winning should feel celebratory; losing should feel motivating, not punishing.
 
 And just like i had a fun working MVP of a casual game evoking nostalgia and destresses.
 
-## Some of my key learning
+## Some of my key learning lessons
+
+1. AI is an assistive layer, not a decision-maker
+Treat it as a co-pilot for ideation and speed, while humans own judgment, context, and final decisions.
+
+2. Non-deterministic outputs require iteration
+Tools like ChatGPT or Gemini produce variable outputs (randomness/temperature), so consistency comes from prompt refinement and constraints, not one-shot generation.
+
+3. Prompting is an optimization loop
+Effective use of AI involves iterative prompting, feedback loops, and constraint tuning to converge toward desired output.
+
+4. Strong inputs → better outputs
+Providing PRDs, design specs, user personas, and constraints significantly improves relevance and reduces ambiguity.
+
+5. AI accelerates prototyping, not validation
+It helps build MVPs and mockups faster, but user testing and validation remain human-driven.
+
+6. Human oversight ensures coherence
+AI can generate isolated screens, but maintaining design systems, consistency, and accessibility requires structured human review.
+
+7. Context injection improves quality
+Adding business goals, edge cases, and user scenarios leads to more usable and production-ready outputs.
+
+8. Bias and hallucination need guardrails
+Outputs must be validated against real data and requirements to avoid incorrect assumptions.
+
+9. AI shifts designers from execution to orchestration
+The role evolves toward problem framing, system thinking, and cross-functional alignment.
+
+10. Efficiency gains come from workflows, not tools alone
+Maximum impact comes when AI is integrated into repeatable workflows (design → iterate → test → refine), not used ad hoc.
+
+Thanks for Reading!!
 
 
