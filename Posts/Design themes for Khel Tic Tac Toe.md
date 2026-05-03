@@ -28,4 +28,9 @@ Setting the design context for first few screens worked for the rest.
 
 # The design.md that should have worked
 
-I downloaded '.md' files
+I downloaded `.md` files of my completed project in hopes of using the same in a new session. Expect i would change the colours and coin structure designs. Rest would be taken care of.
+That is where I failed.
+
+<b>Reason:</b> Every  generative image tool (Google Stitch in this case) uses a random seed. This seed gets altered in every new session or project even with a `design.md` file. This makes image generation keeping style constant difficult.
+
+Hence using "refine this image" or "edit" flow to implicitly anchor to the previous seed's latent space with the `.md` file was the only way
