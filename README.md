@@ -46,6 +46,6 @@ Series are groups of posts that build on each other. Start here if you want cont
     <td>Generative AI will not replace UI designers</td>
   </tr>
   <td>April 26'</td>
-    <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable">Final Prototype on Lovable</td>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable.md">Final Prototype on Lovable</td>
     <td>Generative AI will not replace UI designers</td>
 </table>

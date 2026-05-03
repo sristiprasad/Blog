@@ -14,4 +14,4 @@ This series is an account on how i failed with googles generative AI tool and en
 
 2. <u>[Design themes for Khel Tic Tac Toe](https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20themes%20for%20Khel%20Tic%20Tac%20Toe.md)</u> Constructing Design.md with 1 completed themed wireframe for contexting others.
 
-3. <u>[Final Prototype on Lovable]()</u> Creating a working MVP just with design specs using lovable.
+3. <u>[Final Prototype on Lovable](https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable.md)</u> Creating a working MVP just with design specs using lovable.
