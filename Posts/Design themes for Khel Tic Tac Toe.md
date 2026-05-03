@@ -34,3 +34,20 @@ That is where I failed.
 <b>Reason:</b> Every  generative image tool (Google Stitch in this case) uses a random seed. This seed gets altered in every new session or project even with a `design.md` file. This makes image generation keeping style constant difficult.
 
 Hence using "refine this image" or "edit" flow to implicitly anchor to the previous seed's latent space with the `.md` file was the only way.
+
+# Why make design moat for a game?
+When exploring simple tic tac tow game on app store, i found most apps with games are cluttered with UI! 
+Either that, or too much of 'neons' or 'foreign' conceptuated. Nothing seemed Indian enough, simple or nostalgic.
+Thats when i decided to make design as my moat and experiment in creating something that feels decluttered and ours. 
+
+Good Design compounds—over time it builds user familiarity, trust, and habit that competitors can’t easily replicate. While features can be copied, a well-crafted user experience is the result of countless micro-decisions across interaction, visual language, and system thinking.
+
+---
+
+**Series** : [Generative AI will not replace UI designers ->](https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md)
+
+# Related
+
+<ul>
+  <li><a href="">Final Prototype on Loveable</li> 
+</ul>
