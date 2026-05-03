@@ -20,9 +20,9 @@ Series are groups of posts that build on each other. Start here if you want cont
 <td> While generating an initial set of wireframes yielded strong, coherent results, introducing new themes and modifying UI tokens exposed limitations in context retention. The model operates without persistent memory, requiring repeated reinforcement of core design systems, layout logic, and visual rules. Scaling from 7 to 17 wireframes demanded deliberate prompt structuring to prevent drift and ensure consistency across generations. </td>
   </tr>
   <tr>
-    <td>Series 2</td>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Two%20things%20that%20Rapido%20is%20doing%20wrong.md">Two things that Rapido is doing wrong</a></td>
     <th>0</th>
-    <td>Title 2</td>
+    <td>A user watches their ride get rejected again and again, while on the other side a driver mid-ride is interrupted by new requests—revealing how Rapido’s real-time signals create frustration for users and unsafe distractions for drivers</td>
   </tr>
 </table>
 <hr>
