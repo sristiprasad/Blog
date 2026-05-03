@@ -49,5 +49,5 @@ Good Design compounds—over time it builds user familiarity, trust, and habit t
 # Related
 
 <ul>
-  <li><a href="">Final Prototype on Lovable: Creating a working MVP just with design specs using lovable</li> 
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable"> Final Prototype on Lovable:</a>Creating a working MVP just with design specs using lovable</li>
 </ul>

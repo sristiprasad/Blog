@@ -99,6 +99,6 @@ This limitation converted by 3-4 hours of experimenting, painstacking focus of o
 # Related
 
 <ul>
-  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20themes%20for%20Khel%20Tic%20Tac%20Toe.md">Design themes for Khel Tic Tac Toe: Constructing Design.md with 1 completed themed wireframe for contexting others.</li>
-  <li><a href="">Final Prototype on Lovable: Creating a working MVP just with design specs using lovable.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20themes%20for%20Khel%20Tic%20Tac%20Toe.md">Design themes for Khel Tic Tac Toe:</a> Constructing Design.md with 1 completed themed wireframe for contexting others.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable">Final Prototype on Lovable:</a>Creating a working MVP just with design specs using lovable.</li>
   
