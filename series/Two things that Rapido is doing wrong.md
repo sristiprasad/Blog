@@ -9,6 +9,7 @@ Rapido focused on two things:
 An frustration that pivoted into a startup is today at 74M MAU, nearly double Uber and tripple Olas MAU, having raised $568M total vs Ola’s $3.8B.
 
 While this ride hailing platform's winning - few UX decisions maybe unintentionally creating friction for both customers and captains.
+
 1.Live rejection counter shown to users — messages like “30 out of 45 captains rejected your ride” : Creates unnecessary customer dejection and makes the platform feel unreliable, even when the issue may simply be marketplace timing or driver availability.
 
 2.Mid-ride-alert system for captains: While the intent is operational efficiency, reducing idle time, constant notifications during an active ride can create distraction and decision anxiety for drivers navigating busy roads. 
