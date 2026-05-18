@@ -17,7 +17,7 @@ This is account is an attemptive demo on what steps i would take to improve thes
 
 ## Posts in This Series
 
-1. <u>[Understanding the existing UX of Rapido]()</u> Understanding the existing UX decisions around these alerts and rejection counter feature on Rapido.
+1. <u>[Understanding the existing UX of Rapido](https://github.com/sristiprasad/Blog/blob/main/Posts/Understanding%20the%20existing%20UX%20of%20Rapido.md)</u> Understanding the existing UX decisions around these alerts and rejection counter feature on Rapido.
 
 2. <u>[Market Research and Analysis]()</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
 
