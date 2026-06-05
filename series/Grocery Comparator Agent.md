@@ -1,4 +1,4 @@
-# Series: 
+# Series: Generative AI will not replace UI designers
 
 I was using google stitch to create a set of wireframes for a mobile gaming app.
 The start was great! it took all my broken prompts to still give asthetic results.
