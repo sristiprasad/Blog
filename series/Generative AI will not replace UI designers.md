@@ -1,5 +1,12 @@
 # Series: Generative AI will not replace UI designers
-<img src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/Screenshot%202026-03-29%20at%209.30.45%E2%80%AFPM.png" alt="Khel Tic Tac Toe Game">
+
+<p align="center">
+  <img 
+    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/Screenshot%202026-03-29%20at%209.30.45%E2%80%AFPM.png?raw=true"
+    alt="Khel Tic Tac Toe Game"
+    height="800"
+    width="600">
+</p>
 
 I was using google stitch to create a set of wireframes for a mobile gaming app- Khel Tic Tac Toe
 The start was great! it took all my broken prompts to still give asthetic results.

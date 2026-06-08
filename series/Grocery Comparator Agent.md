@@ -4,7 +4,7 @@
   <img 
     src="https://github.com/sristiprasad/Blog/blob/main/grocery%20agent%20artifacts/Infographic-Leading-Quick-Commerce-Platforms-in-India.png?raw=true"
     alt="Quick Commerce Network"
-    height="400"
+    height="800"
     width="600">
 </p>
 
