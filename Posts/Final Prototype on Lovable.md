@@ -28,7 +28,9 @@ Users should feel a sense of cultural pride and delight when interacting with th
 The game should feel effortless — like picking up a pen and playing on paper, just more beautiful.
 Winning should feel celebratory; losing should feel motivating, not punishing.
 
-[Read the entire PRD spec and MVP demo here](https://drive.google.com/drive/u/1/folders/19Qs0q-egIBTNXlZ2aRzYwidnpfBKjbqQ)         [Click here to play!](https://preview--khel-tic-tac-master.lovable.app/)
+[Read the entire PRD spec](https://github.com/sristiprasad/Blog/blob/main/Artifacts/Khel_Tic_Tac_PRD%20.docx)  
+[Watch MVP demo here](https://github.com/sristiprasad/Blog/blob/main/Artifacts/Screen%20Recording%202026-04-05%20at%2010.45.12%E2%80%AFPM.mov)             
+[Click here to play!](https://preview--khel-tic-tac-master.lovable.app/)
 
 And just like i had a fun working MVP of a casual game evoking nostalgia and destresses.
 
