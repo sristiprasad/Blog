@@ -1,10 +1,18 @@
-# Series: Grocery Comparator Agent
+# Series: Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp
 
-With quick commerce booming, door step delivery has become an economic, time saving choice for many across metros and tier-2 cities. However, more the options, more the confusion when it comes to saving on daily grocery purchases. Now the use case changes how to save on so many apps options out there with the best deals including small cart values powering savings.
+Quick commerce has transformed the way people shop for groceries. Across metro and tier-2 cities, doorstep delivery is often faster, more convenient, and increasingly economical than visiting a physical store. Yet as the number of platforms grows, so does a new problem—knowing where to buy.
 
-With Agentic AI- this is now possible with a simple workflow integration. Using whatsapp as your main conversant, getting total bundle prices of grocery items, per site can help in making smart choices. In the age of AI smart workflows that can solve for daily hassles is the nxt move- further adding to end goal of getting price comparisons and adding them to cart, ending up with payment and ordering negating the need of opening any app for ordering.
+A single grocery list can have vastly different prices across apps, with discounts, delivery charges, platform fees, and cart-value conditions affecting the final bill. What was once a shopping problem has now become a decision-making problem.
 
-Just have an account on these apps and save space on storage in your mobile devices, that it. Simple and easy. Future of agentic ai is how to reduce human effort and time in simple daily acts that can be overwhelming and tedious. Below is an account of attempting to make this agent from scratch- what failed, what worked, edge cases and the working prototype. 
+This is where Agentic AI can create real value.
+
+Imagine sending a grocery list on WhatsApp and instantly receiving a comparison of total basket prices across multiple quick-commerce platforms. Instead of manually opening several apps, searching for products, calculating discounts, and comparing totals, an AI agent can do the work on your behalf and recommend the most cost-effective option.
+
+The vision extends even further: compare prices, build carts, select the best platform, complete checkout, and place the order—all through a conversational interface. No app switching, no repetitive searches, and no unnecessary effort.
+
+At its core, Agentic AI is not about replacing humans; it is about eliminating repetitive, time-consuming decisions that occur in everyday life.
+
+This series documents the journey of building such an agent from scratch—covering the idea, architecture, failures, edge cases, lessons learned, and the final working prototype.
 
 ## Posts in This Series
 
