@@ -25,8 +25,8 @@ Series are groups of posts that build on each other. Start here if you want cont
     <td>A user watches their ride get rejected again and again, while on the other side a driver mid-ride is interrupted by new requests—revealing how Rapido’s real-time signals create frustration for users and unsafe distractions for drivers</td>
   </tr>
   <tr>
-    <td><a href="">Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</a></td>
-    <th>0</th>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Grocery%20Comparator%20Agent.md">Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</a></td>
+    <th>3</th>
     <td>Converse on whatsapp to get real time prices of your daily grocery grouped by popular quick-commerce apps</td>
   </tr>
 </table>
@@ -50,7 +50,9 @@ Series are groups of posts that build on each other. Start here if you want cont
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Design%20themes%20for%20Khel%20Tic%20Tac%20Toe.md">Design themes for Khel Tic Tac Toe</td>
     <td>Generative AI will not replace UI designers</td>
   </tr>
+  <tr>
   <td>April 26'</td>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable.md">Final Prototype on Lovable</td>
     <td>Generative AI will not replace UI designers</td>
+    </tr>
 </table>

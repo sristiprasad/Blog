@@ -13,8 +13,8 @@ This series documents the journey of building such an agent from scratch—cover
 
 ## Posts in This Series
 
-1. <u>[The Problem, Opportunity, and Initial Concept]()</u> Why grocery price comparison is broken and how Agentic AI can solve it.
+1. <u>[The Problem, Opportunity, and Initial Concept](https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Problem%2C%20Opportunity%2C%20and%20Initial%20Concept)</u> Why grocery price comparison is broken and how Agentic AI can solve it.
 
-2. <u>[Designing the Agent: Workflows, Edge Cases, and Technical Challenges]()</u> Architecture, tools, APIs, failures, and lessons learned while building the system.
+2. <u>[Designing the Agent: Workflows, Edge Cases, and Technical Challenges](https://github.com/sristiprasad/Blog/blob/main/Posts/Designing%20the%20Agent%3A%20Workflows%2C%20Edge%20Cases%2C%20and%20Technical%20Challenges)</u> Architecture, tools, APIs, failures, and lessons learned while building the system.
 
-3. <u>[The Working Prototype and What's Next]()</u> Demo, results, limitations, and future improvements toward fully autonomous ordering.
+3. <u>[The Working Prototype and What's Next](https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Working%20Prototype%20and%20What's%20Next)</u> Demo, results, limitations, and future improvements toward fully autonomous ordering.
