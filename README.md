@@ -54,19 +54,39 @@ Series are groups of posts that build on each other. Start here if you want cont
   <td>April 26'</td>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Final%20Prototype%20on%20Lovable.md">Final Prototype on Lovable</td>
     <td>Generative AI will not replace UI designers</td>
+  </tr>
+  <tr>
+  <td>May 26'</td>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Understanding%20the%20existing%20UX%20of%20Rapido.md">Understanding the existing UX of Rapido </td>
+    <td>Two things that Rapido is doing wrong</td>
     </tr>
     <tr>
-  <td>April 26'</td>
+  <td>May 26'</td>
+    <td><a href="">Market Research and Analysis</td>
+    <td>Two things that Rapido is doing wrong</td>
+    </tr>
+    <tr>
+  <td>May 26'</td>
+    <td><a href="">UX improvement for 'Live rejection counter</td>
+    <td>Two things that Rapido is doing wrong</td>
+    </tr>
+    <tr>
+  <td>May 26'</td>
+    <td><a href="">UX improvement for 'Mid-ride-alert system for captains</td>
+    <td>Two things that Rapido is doing wrong</td>
+    </tr>
+  <tr>
+  <td>June 26'</td>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Problem%2C%20Opportunity%2C%20and%20Initial%20Concept.md">The Problem, Opportunity, and Initial Concept </td>
     <td>Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</td>
     </tr>
     <tr>
-  <td>April 26'</td>
+  <td>June 26'</td>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Designing%20the%20Agent%3A%20Workflows%2C%20Edge%20Cases%2C%20and%20Technical%20Challenges.md">Designing the Agent: Workflows, Edge Cases, and Technical Challenges</td>
     <td>Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</td>
     </tr>
     <tr>
-  <td>April 26'</td>
+  <td>June 26'</td>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Working%20Prototype%20and%20What's%20Next.md">The Working Prototype and What's Next</td>
     <td>Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</td>
     </tr>
