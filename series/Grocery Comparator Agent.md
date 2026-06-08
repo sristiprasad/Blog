@@ -1,6 +1,12 @@
 # Series: Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp
 
-<img src="Artifacts/infographic-Leading-Quick-Commerce-.png" alt="Quick Commerce Network">
+<p align="center">
+  <img 
+    src="https://github.com/sristiprasad/Blog/blob/main/grocery%20agent%20artifacts/Infographic-Leading-Quick-Commerce-Platforms-in-India.png?raw=true"
+    alt="Quick Commerce Network"
+    height="400"
+    width="600">
+</p>
 
 Quick commerce has transformed the way people shop for groceries. Across metro and tier-2 cities, doorstep delivery is often faster, more convenient, and increasingly economical than visiting a physical store. Yet as the number of platforms grows, so does a new problem—knowing where to buy.
 
