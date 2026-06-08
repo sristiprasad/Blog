@@ -33,6 +33,6 @@ The goal is simple: save money, save time, and make grocery shopping effortless 
 # Related
 
 <ul>
-  <li><a href=".md">Designing the Agent: Workflows, Edge Cases, and Technical Challenges:</a> Architecture, tools, APIs, failures, and lessons learned while building the system.</li>
-  <li><a href=".md">The Working Prototype and What's Next:</a>Demo, results, limitations, and future improvements toward fully autonomous ordering.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Designing%20the%20Agent%3A%20Workflows%2C%20Edge%20Cases%2C%20and%20Technical%20Challenges.md">Designing the Agent: Workflows, Edge Cases, and Technical Challenges:</a> Architecture, tools, APIs, failures, and lessons learned while building the system.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Working%20Prototype%20and%20What's%20Next.md">The Working Prototype and What's Next:</a>Demo, results, limitations, and future improvements toward fully autonomous ordering.</li>
   
