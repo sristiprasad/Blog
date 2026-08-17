@@ -18,7 +18,7 @@ Platforms like Blinkit, Zepto and Instamart rely heavily on JavaScript-rendered 
 
 That was an important product lesson for me:
 
-### <i> A working demo proves the workflow. It doesn't necessarily prove the underlying data can support the product</i>
+### *A working demo proves the workflow. It doesn't necessarily prove the underlying data can support the product*
 
 The next technical direction is therefore less about adding more AI and more about building a reliable data layer — potentially using a headless browser such as Playwright or, better, identifying the underlying APIs used by these platforms.
 
@@ -30,11 +30,11 @@ Initially, it felt obvious: find the cheapest price for every item across stores
 
 So the problem isn't actually:
 
-<i> “Where is each item cheapest?” </i>
+*“Where is each item cheapest?”*
 
 It is:
 
-<i> “What is the cheapest practical way to complete my entire grocery order?” </i>
+*“What is the cheapest practical way to complete my entire grocery order?”*
 
 That changes the optimisation problem completely. The next version therefore needs to think beyond item-level price comparison and consider the total basket cost, number of stores, delivery fees, availability and potentially delivery time. This was probably the most interesting product insight I got from building the prototype. Sometimes the technically optimal solution isn't the product-optimal solution.
 
@@ -42,7 +42,7 @@ That changes the optimisation problem completely. The next version therefore nee
 
 The current prototype can take a user from grocery list to payment link. But there is still a very important gap in between:
 
-<b> What happens after the payment? </b>
+**What happens after the payment?**
 
 Right now, Razorpay can collect the estimated amount, but the actual grocery orders aren't automatically placed on Blinkit, Zepto or the other platforms. That would require official partner APIs or browser automation, both of which introduce significant feasibility and reliability considerations.
 
@@ -54,26 +54,26 @@ It needs to become more reliable, more transparent and more autonomous.
 
 Things like:
 
->> Re-validating prices before payment
->> Handling unavailable items with substitutions
->> Understanding follow-up messages like “remove the eggs”
->> Supporting Hindi and mixed-language inputs properly
->> Asking for clarification instead of guessing vague quantities
->> Handling interrupted or abandoned sessions
->> Optimising the entire basket instead of individual items
->> Eventually completing the actual order
+- Re-validating prices before payment  
+- Handling unavailable items with substitutions  
+- Understanding follow-up messages like “remove the eggs”  
+- Supporting Hindi and mixed-language inputs properly  
+- Asking for clarification instead of guessing vague quantities  
+- Handling interrupted or abandoned sessions  
+- Optimising the entire basket instead of individual items  
+- Eventually completing the actual order
 
 Some of these are engineering problems. Some are UX problems. Some are business and platform-integration problems. And that, perhaps, is my biggest takeaway from building this.
 
 Agentic AI isn't just about getting an AI model to perform a task. It's about designing the entire system around what the AI should do, what deterministic software should handle, where failures can happen, and how the user recovers from them. 
 
-The prototype gave me the proof of concept. Now comes the much harder question:
+## The prototype gave me the proof of concept. Now comes the much harder question:
 Can I turn the proof of concept into something a person would actually trust with their grocery order?
-----
+
 **Series** : [Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp ->](https://github.com/sristiprasad/Blog/blob/main/series/Grocery%20Comparator%20Agent.md)
 
 # Related
 
-<ul>
-  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Problem%2C%20Opportunity%2C%20and%20Initial%20Concept.md">The Problem, Opportunity, and Initial Concept:</a>Why grocery price comparison is broken and how Agentic AI can solve it.</li>
-  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Designing%20the%20Agent%3A%20Workflows%2C%20Edge%20Cases%2C%20and%20Technical%20Challenges.md">Designing the Agent: Workflows, Edge Cases, and Technical Challenges:</a>Architecture, tools, APIs, failures, and lessons learned while building the system.</li>
+- [The Problem, Opportunity, and Initial Concept:](https://github.com/sristiprasad/Blog/blob/main/Posts/The%20Problem%2C%20Opportunity%2C%20and%20Initial%20Concept.md)Why grocery price comparison is broken and how Agentic AI can solve it.
+- [Designing the Agent: Workflows, Edge Cases, and Technical Challenges:](https://github.com/sristiprasad/Blog/blob/main/Posts/Designing%20the%20Agent%3A%20Workflows%2C%20Edge%20Cases%2C%20and%20Technical%20Challenges.md)Architecture, tools, APIs, failures, and lessons learned while building the system.
+
