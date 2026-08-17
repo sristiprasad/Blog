@@ -54,14 +54,14 @@ It needs to become more reliable, more transparent and more autonomous.
 
 Things like:
 
-1/ Re-validating prices before payment
-2/ Handling unavailable items with substitutions
-3/ Understanding follow-up messages like “remove the eggs”
-4/ Supporting Hindi and mixed-language inputs properly
-5/ Asking for clarification instead of guessing vague quantities
-6/ Handling interrupted or abandoned sessions
-7/ Optimising the entire basket instead of individual items
-8/ Eventually completing the actual order
+>> Re-validating prices before payment
+>> Handling unavailable items with substitutions
+>> Understanding follow-up messages like “remove the eggs”
+>> Supporting Hindi and mixed-language inputs properly
+>> Asking for clarification instead of guessing vague quantities
+>> Handling interrupted or abandoned sessions
+>> Optimising the entire basket instead of individual items
+>> Eventually completing the actual order
 
 Some of these are engineering problems. Some are UX problems. Some are business and platform-integration problems. And that, perhaps, is my biggest takeaway from building this.
 
