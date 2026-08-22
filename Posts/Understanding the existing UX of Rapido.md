@@ -4,28 +4,10 @@ Rapido UX is proof how app interfaces have to evolve alongside the business itse
 
 What started as a bike-taxi app has gradually expanded into autos, parcel delivery, metro tickets and travel. And when you look at different UX reviews and user research around Rapido, you can actually see this reflected in the interface.
 
-<p align="left">
-  <img 
-    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6462.PNG"
-    alt="Rapido homepage"
-    height="460"
-    width="250">
-</p>
-
 <p align="center">
-  <img
-    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6463.PNG"
-    alt="Rapido profile"
-    height="460"
-    width="250">
-</p>
-
-<p align="right">
-  <img
-    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6464.PNG"
-    alt="Rapido profile"
-    height="460"
-    width="250">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_6462.PNG" width="250">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_6463.PNG" width="250">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_6464.PNG" width="250">
 </p>
 
 
