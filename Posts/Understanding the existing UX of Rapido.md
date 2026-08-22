@@ -8,7 +8,7 @@ What started as a bike-taxi app has gradually expanded into autos, parcel delive
   <img 
     src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6462.PNG"
     alt="Rapido homepage"
-    height="450"
+    height="460"
     width="250">
 </p>
 
