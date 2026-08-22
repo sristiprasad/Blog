@@ -21,7 +21,7 @@ Series are groups of posts that build on each other. Start here if you want cont
   </tr>
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Two%20things%20that%20Rapido%20is%20doing%20wrong.md">Two things that Rapido is doing wrong</a></td>
-    <th>0</th>
+    <th>4</th>
     <td>A user watches their ride get rejected again and again, while on the other side a driver mid-ride is interrupted by new requests—revealing how Rapido’s real-time signals create frustration for users and unsafe distractions for drivers</td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ Series are groups of posts that build on each other. Start here if you want cont
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series Designing%20an%20AI%20Workflow%20for%20Duplicate%20Issue%20Detection.md">Designing an AI workflow for duplicate ticket detection
     </a></td>
-    <th>4</th>
+    <th>3</th>
     <td>AI use case: Automatically determine whether a newly submitted support ticket refers to an existing issue without manual intervention</td>
   </tr>
 </table>
