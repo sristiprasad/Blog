@@ -9,7 +9,7 @@ What started as a bike-taxi app has gradually expanded into autos, parcel delive
     src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6462.PNG"
     alt="Rapido homepage"
     height="450"
-    width="300">
+    width="250">
 </p>
 
 Here's what Rapidos UX and UI has evolved into:-
