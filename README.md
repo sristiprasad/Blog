@@ -29,6 +29,11 @@ Series are groups of posts that build on each other. Start here if you want cont
     <th>3</th>
     <td>Converse on whatsapp to get real time prices of your daily grocery grouped by popular quick-commerce apps</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/sristiprasad/Blog/blob/main/series Designing%20an%20AI%20Workflow%20for%20Duplicate%20Issue%20Detection.md">Designing an AI workflow for duplicate ticket detection
+    </a></td>
+    <td>AI use case: Automatically determine whether a newly submitted support ticket refers to an existing issue without manual intervention</td>
+  </tr>
 </table>
 <hr>
 
