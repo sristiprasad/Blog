@@ -27,13 +27,13 @@ Series are groups of posts that build on each other. Start here if you want cont
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Grocery%20Comparator%20Agent.md">Building an Agentic AI Grocery Assistant: Comparing Quick Commerce Prices Through WhatsApp</a></td>
     <th>3</th>
-    <td>Converse on whatsapp to get real time prices of your daily grocery grouped by popular quick-commerce apps</td>
+    <td>Multiple quick commerce apps, hours in comparing prices, more storage system taken up and a broken flow of ordering online. Save time when an agent does it with conversational skills on whatsapp. Get real time prices of your daily grocery grouped by popular quick-commerce apps</td>
   </tr>
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series Designing%20an%20AI%20Workflow%20for%20Duplicate%20Issue%20Detection.md">Designing an AI workflow for duplicate ticket detection
     </a></td>
     <th>3</th>
-    <td>AI use case: Automatically determine whether a newly submitted support ticket refers to an existing issue without manual intervention</td>
+    <td>High volumes of support tickets, same underlying issues, duplication, repeated effort, and an unorganised support workflow. Built an AI-powered workflow that identifies probable existing issues, uses semantic matching to detect duplicates, and routes ambiguous cases for human review.</td>
   </tr>
 </table>
 <hr>
