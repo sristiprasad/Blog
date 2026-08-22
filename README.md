@@ -16,7 +16,7 @@ Series are groups of posts that build on each other. Start here if you want cont
   </tr>
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series/Generative%20AI%20will%20not%20replace%20UI%20designers.md">Generative AI will not replace UI designers</a></td>
-    <td>3</td>
+    <th>3</th>
 <td> While generating an initial set of wireframes yielded strong, coherent results, introducing new themes and modifying UI tokens exposed limitations in context retention. The model operates without persistent memory, requiring repeated reinforcement of core design systems, layout logic, and visual rules. Scaling from 7 to 17 wireframes demanded deliberate prompt structuring to prevent drift and ensure consistency across generations. </td>
   </tr>
   <tr>
@@ -32,6 +32,7 @@ Series are groups of posts that build on each other. Start here if you want cont
   <tr>
     <td><a href="https://github.com/sristiprasad/Blog/blob/main/series Designing%20an%20AI%20Workflow%20for%20Duplicate%20Issue%20Detection.md">Designing an AI workflow for duplicate ticket detection
     </a></td>
+    <th>4</th>
     <td>AI use case: Automatically determine whether a newly submitted support ticket refers to an existing issue without manual intervention</td>
   </tr>
 </table>
