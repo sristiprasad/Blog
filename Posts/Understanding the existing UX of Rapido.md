@@ -40,10 +40,10 @@ One recurring issue identified in Rapido research is the waiting state after boo
 
 Some suggested UX improvements included:
 
-> Showing the number of nearby available captains
-> Adding a countdown or estimated waiting window
-> Making cancellation more intuitive
-> Communicating low availability before the booking is confirmed
+- Showing the number of nearby available captains
+- Adding a countdown or estimated waiting window
+- Making cancellation more intuitive
+- Communicating low availability before the booking is confirmed
 
 This is an important UX principle: Products should always provide certainty to lower the out of hand ambiguities.
 
@@ -59,14 +59,14 @@ The "Local Send Items" (now as "Parcel-Send Items") journey became particularly 
 
 Users struggled with:
 
-> Understanding what the feature actually did
-> Finding the feature
-> Navigating multiple screens
-> Seeing all required fields without scrolling
-> Understanding unfamiliar icons
-> Knowing why coupons appeared during payment
-> Understanding service availability only after entering several details
-> Knowing how to return to the normal ride-booking flow
+- Understanding what the feature actually did
+- Finding the feature
+- Navigating multiple screens
+- Seeing all required fields without scrolling
+- Understanding unfamiliar icons
+- Knowing why coupons appeared during payment
+- Understanding service availability only after entering several details
+- Knowing how to return to the normal ride-booking flow
 
 Users were told “service not provided” only after completing several steps. That's a poor information hierarchy in the system knowing the constraint earlier—but communicating later. Good UX tries to surface constraints at the earliest useful touch-point, not at the end of the journey.
 
