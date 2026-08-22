@@ -6,10 +6,10 @@ What started as a bike-taxi app has gradually expanded into autos, parcel delive
 
 <p align="left">
   <img 
-    src=""
-    alt="Khel Tic Tac Toe Game"
-    height="800"
-    width="600">
+    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6462.PNG"
+    alt="Rapido homepage"
+    height="80"
+    width="60">
 </p>
 
 Here's what Rapidos UX and UI has evolved into:-
