@@ -25,10 +25,10 @@ Earlier versions of Rapido were criticised for putting several services behind m
 
 There were also concerns around:
 
-> Important CTAs not being immediately visible
-> Too much information inside menus
-> Users taking time to find expected actions
-> Features being hidden inside hamburger menus
+- > Important CTAs not being immediately visible
+- > Too much information inside menus
+- > Users taking time to find expected actions
+- > Features being hidden inside hamburger menus
 
 This is a classic UX trade-off: More features ≠ better discoverability.
 
