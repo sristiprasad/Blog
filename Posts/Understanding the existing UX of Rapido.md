@@ -12,6 +12,23 @@ What started as a bike-taxi app has gradually expanded into autos, parcel delive
     width="250">
 </p>
 
+<p align="center">
+  <img
+    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6463.PNG"
+    alt="Rapido profile"
+    height="460"
+    width="250">
+</p>
+
+<p align="right">
+  <img
+    src="https://github.com/sristiprasad/Blog/blob/main/Artifacts/IMG_6464.PNG"
+    alt="Rapido profile"
+    height="460"
+    width="250">
+</p>
+
+
 Here's what Rapidos UX and UI has evolved into:-
 
 #### <i> 1. Rapido understands the Indian commute </i>
