@@ -85,7 +85,7 @@ A customer choosing UPI, cancelling a booking, waiting for a captain or preferri
 
 The job of a product team is to connect these observations, identify patterns and turn them into meaningful improvements.
 
-**Good products aren't built just by looking at what customers do. They're built by understanding why they do it.**
+*Good products aren't built just by looking at what customers do. They're built by understanding why they do it.*
 
 ---
 
