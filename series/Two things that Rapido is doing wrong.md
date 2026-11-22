@@ -18,10 +18,10 @@ This is account is an attemptive demo on what steps i would take to improve thes
 
 ## Posts in This Series
 
-1. <u>[Understanding the existing UX of Rapido](https://github.com/sristiprasad/Blog/blob/main/Posts/Understanding%20the%20existing%20UX%20of%20Rapido.md)</u> Understanding the existing UX decisions around these alerts and rejection counter feature on Rapido.
+1. <u>[Understanding the Existing UX of Rapido](https://github.com/sristiprasad/Blog/blob/main/Posts/Understanding%20the%20existing%20UX%20of%20Rapido.md)</u> Understanding the existing UX decisions around these alerts and rejection counter feature on Rapido.
 
 2. <u>[Market Research and Analysis](https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido)</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
 
-3. <u>[UX improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter')</u> Take 1 on improving the workflow.
+3. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter')</u> Take 1 on improving the workflow.
 
-3. <u>[UX improvement for 'Mid-Ride-Alert System for Captains']()</u> Take 1 on improving the workflow.
+3. <u>[UX Improvement for 'Mid-Ride-Alert System for Captains'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains')</u> Take 1 on improving the workflow.
