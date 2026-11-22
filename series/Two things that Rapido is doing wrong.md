@@ -20,7 +20,7 @@ This is account is an attemptive demo on what steps i would take to improve thes
 
 1. <u>[Understanding the existing UX of Rapido](https://github.com/sristiprasad/Blog/blob/main/Posts/Understanding%20the%20existing%20UX%20of%20Rapido.md)</u> Understanding the existing UX decisions around these alerts and rejection counter feature on Rapido.
 
-2. <u>[Market Research and Analysis]()</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
+2. <u>[Market Research and Analysis](https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido)</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
 
 3. <u>[UX improvement for 'Live rejection counter']()</u> Take 1 on improving the workflow.
 
