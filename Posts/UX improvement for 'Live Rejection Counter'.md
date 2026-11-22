@@ -7,8 +7,8 @@ Imagine you're getting late for work. You book a Rapido, put your phone away for
 **17 of 47 captains rejected your ride.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_7822 copy.PNG" width="350">
-  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_7822.PNG" width="350">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_7820 copy.PNG" width="350">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_7820.PNG" width="350">
 </p>
 
 
