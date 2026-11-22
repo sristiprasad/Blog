@@ -73,9 +73,9 @@ It is a reminder that customer research doesn't always need to begin with a surv
 
 **Some videos documenting these ground-level interactions:**
 
-- [What's Up Captain, EP5, Conducted by Vice President Consumer Service Delivery, Rapido – YouTube link](https://youtu.be/fdZpQTFBXZA?si=jtrrvij6tPKnwi-x)
-- [Customer Interaction – YouTube link](ADD_YOUTUBE_LINK_HERE)
-- [On-ground Feedback – YouTube link](ADD_YOUTUBE_LINK_HERE)
+- [What's Up Captain, EP5, Conducted by Vice President Consumer Service Delivery, Rapido – Watch Here](https://youtu.be/fdZpQTFBXZA?si=jtrrvij6tPKnwi-x)
+- [What's Up Captain, EP3, Conducted by Head of Product, Rapido – Watch Here](https://youtu.be/HGro_M8Dk04?si=qQbvMPUdrT58yMor)
+- [What's Up Captain, EP2, Conducted by Cheif of Staff, Rapido – Watch Here](https://youtu.be/Va8A9wKZOmU?si=7R-v9KaiaathhPgM)
 
 ## My takeaway
 
