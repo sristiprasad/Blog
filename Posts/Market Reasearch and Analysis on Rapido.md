@@ -1,10 +1,6 @@
 # Market Research and Analysis: How Rapido Uses Consumer Behaviour to Build a Better Ride Experience
 
-A ride-hailing app might look simple on the surface. Open the app, enter your destination, book a ride and get going.
-
-But behind every booking is a customer making a choice. Why did they choose Rapido? Was it the price, convenience, availability or simply the fact that they needed to get somewhere quickly?
-
-Understanding these small decisions is what makes consumer research valuable.
+I garner my understanding of Rapido, through leveraging insightful reports and research published by researchers and the company itself.
 
 A study titled *A Study on Customer Satisfaction Towards Rapido Bike Taxi Services in Erode City* offers an interesting look into how customers perceive the platform and where there is room to improve.
 
@@ -20,8 +16,6 @@ A few findings stood out:
 - **62%** felt that Rapido helped save travel time.
 - **60%** described their ride experience as comfortable.
 - **40%** preferred UPI as their payment method.
-
-*Source: Customer satisfaction study, pages 4–5.*
 
 These numbers tell us something interesting: customers aren't just buying a ride. They are buying saved time, affordability and convenience.
 
@@ -79,7 +73,7 @@ It is a reminder that customer research doesn't always need to begin with a surv
 
 **Some videos documenting these ground-level interactions:**
 
-- [Leadership Ride Experience – YouTube link](ADD_YOUTUBE_LINK_HERE)
+- [What's Up Captain, EP5, Conducted by Vice President Consumer Service Delivery, Rapido – YouTube link](https://youtu.be/fdZpQTFBXZA?si=jtrrvij6tPKnwi-x)
 - [Customer Interaction – YouTube link](ADD_YOUTUBE_LINK_HERE)
 - [On-ground Feedback – YouTube link](ADD_YOUTUBE_LINK_HERE)
 
