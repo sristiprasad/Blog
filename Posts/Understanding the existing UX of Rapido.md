@@ -81,6 +81,6 @@ Its simple- Rider first, user adaptive and affordable.
 
 1. <u>[Market Research and Analysis](https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido.md)</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
 
-2. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter')</u> Take 1 on improving the workflow.
+2. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter'.md)</u> Take 1 on improving the workflow.
 
-3. <u>[UX Improvement for 'Mid-Ride-Alert System for Captains'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains')</u> Take 1 on improving the workflow.
+3. <u>[UX Improvement for 'Mid-Ride-Alert System for Captains'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains'.md)</u> Take 1 on improving the workflow.
