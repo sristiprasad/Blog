@@ -6,7 +6,7 @@ A study titled *A Study on Customer Satisfaction Towards Rapido Bike Taxi Servic
 
 ## What does customer behaviour tell us?
 
-The study surveyed 50 respondents in Erode to understand their preferences, satisfaction levels and expectations.
+The study surveyed 50 respondents in Erode City, Tamil Nadu to understand their preferences, satisfaction levels and expectations.
 
 A few findings stood out:
 
@@ -88,10 +88,6 @@ The job of a product team is to connect these observations, identify patterns an
 **Good products aren't built just by looking at what customers do. They're built by understanding why they do it.**
 
 ---
-
-*Research reference: Dr. V. Thilagavathi, R. Maha Lakshmi and V. Yeshodha, "A Study on Customer Satisfaction Towards Rapido Bike Taxi Services in Erode City", International Journal of Engineering Development and Research (IJEDR), April 2026, Volume 14, Issue 2.*
-
-*Note: The study is based on a sample of 50 respondents in Erode City. Its findings should be read as a local snapshot rather than a representation of Rapido's entire customer base.*
 
 1. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter'.md)</u> Take 1 on improving the workflow.
 
