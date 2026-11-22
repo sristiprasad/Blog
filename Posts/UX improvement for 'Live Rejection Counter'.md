@@ -117,4 +117,6 @@ Sometimes, a small change in wording, the order of options or the way progress i
 Related
 ---
 
-1. <u>[UX Improvement for 'Mid-Ride-Alert System for Captains'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains'.md)</u> Take 1 on improving the workflow.
+<ul>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains'.md"> UX Improvement for 'Mid-Ride-Alert System for Captains':</a>Take 2 on improving the workflow.</li>
+</ul>

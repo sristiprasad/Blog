@@ -90,6 +90,7 @@ The job of a product team is to connect these observations, identify patterns an
 Related
 ---
 
-1. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter'.md)</u> Take 1 on improving the workflow.
-
-2. <u>[UX Improvement for 'Mid-Ride-Alert System for Captains'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains'.md)</u> Take 1 on improving the workflow.
+<ul>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter'.md"> UX Improvement for 'Live Rejection Counter':</a>Take 1 on improving the workflow.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains'.md"> UX Improvement for 'Mid-Ride-Alert System for Captains':</a>Take 2 on improving the workflow.</li>
+</ul>
