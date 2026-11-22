@@ -6,6 +6,13 @@ Imagine you're getting late for work. You book a Rapido, put your phone away for
 
 **17 of 47 captains rejected your ride.**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_7822 copy.PNG" width="350">
+  <img src="https://raw.githubusercontent.com/sristiprasad/Blog/main/Artifacts/IMG_7822.PNG" width="350">
+  
+</p>
+
+
 That's an interesting product feature. But is it necessarily a good user experience?
 
 I recently came across this feature on Rapido, and it got me thinking about how a seemingly harmless progress update can influence customer behaviour and perception.
