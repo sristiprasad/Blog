@@ -87,6 +87,7 @@ The job of a product team is to connect these observations, identify patterns an
 
 *Good products aren't built just by looking at what customers do. They're built by understanding why they do it.*
 
+Related
 ---
 
 1. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter'.md)</u> Take 1 on improving the workflow.

@@ -114,6 +114,7 @@ Sometimes, a small change in wording, the order of options or the way progress i
 
 **The goal shouldn't just be to show customers what's happening behind the scenes. It should be to make them feel that the product is helping them move forward.**
 
+Related
 ---
 
 1. <u>[UX Improvement for 'Mid-Ride-Alert System for Captains'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Mid-Ride-Alert%20System%20for%20Captains'.md)</u> Take 1 on improving the workflow.
