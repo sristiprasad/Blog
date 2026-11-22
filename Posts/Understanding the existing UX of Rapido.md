@@ -83,7 +83,8 @@ Related
 ---
 
 <ul>
-  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido.md"> FMarket Research and Analysis:</a>Conducting market reasearch and analysis to leverage user behaviour for improvements.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido.md"> Market Research and Analysis:</a>Conducting market reasearch and analysis to leverage user behaviour for improvements.</li>
+  <li><a href="https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido.md"> Market Research and Analysis:</a>Conducting market reasearch and analysis to leverage user behaviour for improvements.</li>
 </ul>
 
 1. <u>[Market Research and Analysis](https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido.md)</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
