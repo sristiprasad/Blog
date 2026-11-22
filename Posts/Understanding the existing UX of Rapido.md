@@ -79,7 +79,7 @@ Its weaker areas tend to appear when the product expands faster than its informa
 That's why Rapido's UX story is interesting to research and learn from. A product built from scratch, expanded crazy and is one of the faster evolving ride hailing app prefered over Ola and Uber of the worlds. 
 Its simple- Rider first, user adaptive and affordable.
 
-1. <u>[Market Research and Analysis](https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido)</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
+1. <u>[Market Research and Analysis](https://github.com/sristiprasad/Blog/blob/main/Posts/Market%20Reasearch%20and%20Analysis%20on%20Rapido.md)</u> Conducting market reasearch and analysis to leverage user behaviour for improvements.
 
 2. <u>[UX Improvement for 'Live Rejection Counter'](https://github.com/sristiprasad/Blog/blob/main/Posts/UX%20improvement%20for%20'Live%20Rejection%20Counter')</u> Take 1 on improving the workflow.
 
